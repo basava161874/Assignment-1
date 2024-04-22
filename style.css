@@ -1,0 +1,127 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.first_card
+{
+    border: 2px solid;
+    width: 40vw;
+    margin: 10px;
+    padding: 20px;
+}
+
+.main_border{
+    border-width: 2px;
+    border-style: solid;
+    margin: 20px;
+    padding: 20px;
+}
+
+h2{
+    color: blue;
+}
+
+.btn_card{
+    border-radius: 20px;
+    border-width: 2px;
+    width: 8vw;
+    height: 5vh;
+    border-style: solid;
+    text-align: center;
+}
+
+.first_page_card
+{
+    background-color: gray;
+    border-radius: 500px;
+    height: 30vh;
+    width: 15vw;
+    text-align: center;
+    font-family: Roboto;
+    padding: 10px;
+}
+
+.number{
+    border: 1px solid;
+    width: 40px;
+    text-align: center;
+    color: blue;
+}
+
+.first_page_card1
+{
+    font-family: Roboto;
+    padding-left: 50px;
+    padding-top: 30px;
+    height: 40vh;
+    width: 20vw;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.name {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.bio {
+    font-size: 16px;
+    color: #999;
+}
+
+.location {
+    font-size: 14px;
+}
+
+.social a {
+    text-decoration: none;
+    color: #000;
+    margin-right: 10px;
+}
+
+.profile-picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+main {
+    padding: 20px;
+}
+
+.skills {
+    margin-bottom: 20px;
+}
+
+.skills h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.skills p {
+    margin-bottom: 10px;
+}
+
+.skill-set {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+.skill {
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
